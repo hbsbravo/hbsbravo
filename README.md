@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hbsbravo
+- 👋 Hi, I’m Hassan
 - 👀 I’m interested in Data Science and Cybersecurity
 - 📫 You can reach me as hassan.bilal.siddiqui@gmail.com
 
